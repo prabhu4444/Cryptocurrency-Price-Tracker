@@ -1,4 +1,9 @@
 # Cryptocurrency-Price-Tracker
+
+# Displays and tracks the prices of all trending cryptocurrency in use sorted in order of their market cap in both USD/INR. 
+# Used context API to manage the state of the app. 
+# While Firebase is used for back-end and Email Auth.
+
 # Live hosted site : https://crypto-hunter.netlify.app/
 
 (First Look) :
@@ -28,4 +33,4 @@
 (Adding multiple coins to watch List) :
 <img width="1440" alt="Screenshot 2022-09-03 at 1 34 37 AM" src="https://user-images.githubusercontent.com/61291869/188228289-19b286e9-89e6-4019-a42c-8d2264dccd5c.png">
 
-Displays and tracks the prices of all trending cryptocurrency in use sorted in order of their market cap in both USD/INR. Used context API to manage the state of the app. While Firebase is used for back-end and Email Auth.
+
