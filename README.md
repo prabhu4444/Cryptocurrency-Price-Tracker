@@ -1,12 +1,16 @@
 # Cryptocurrency-Price-Tracker
 # Live hosted site : https://crypto-hunter.netlify.app/
-(First Look)
+
+(First Look) :
 <img width="1440" alt="Screenshot 2022-09-03 at 1 28 28 AM" src="https://user-images.githubusercontent.com/61291869/188227731-495c3db1-9c60-48b8-836e-95c95a6c7c68.png">
-(Search and Coin Interface)
+
+(Search and Coin Interface) :
 <img width="1440" alt="Screenshot 2022-09-03 at 1 28 33 AM" src="https://user-images.githubusercontent.com/61291869/188227843-5753fa01-d93d-4d05-a7b3-e636c56afb60.png">
-(Coins Available)
+
+(Coins Available) :
 <img width="1440" alt="Screenshot 2022-09-03 at 1 28 41 AM" src="https://user-images.githubusercontent.com/61291869/188227988-7ceba140-12f5-43ac-a319-0d56421a88c3.png">
-(Single Page View of a coin)
+
+(Single Page View of a coin) :
 <img width="1440" alt="Screenshot 2022-09-03 at 1 29 54 AM" src="https://user-images.githubusercontent.com/61291869/188227998-f66bc0fd-efdf-49f0-81d3-694028f24964.png">
 
 <img width="1440" alt="Screenshot 2022-09-03 at 1 29 47 AM" src="https://user-images.githubusercontent.com/61291869/188228013-c4fb4acc-ee6b-4f59-8a41-baa92bda60e3.png">
